@@ -15,3 +15,6 @@
 - https://codepen.io/robrehrig/pen/XbvGMJ
 - https://codepen.io/colaphizer/pen/vYdvyEW
 - https://codepen.io/team/scout0773/pen/MebQwV
+- https://codepen.io/pedbernardo/pen/rOxbav
+- https://codepen.io/ScreaminSauce/pen/ZBRGEE
+- https://codepen.io/cluzier/details/RYMVBP
