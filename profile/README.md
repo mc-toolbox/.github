@@ -25,4 +25,5 @@
 - https://codepen.io/rileyjshaw/pen/Drddop
 - https://codepen.io/HuntingHawk/pen/rNaEZxW
 - https://codepen.io/mackorichardson/pen/vNMRpK
-- 
+- https://codepen.io/CatnCream/pen/nwxqOG
+- https://codepen.io/mobihack-official/pen/EJpRXQ (Quiz)
