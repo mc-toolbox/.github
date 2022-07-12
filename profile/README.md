@@ -20,3 +20,9 @@
 - https://codepen.io/cluzier/details/RYMVBP
 - https://codepen.io/ronaldsvilcins/pen/jPXBJO
 - https://codepen.io/garrettbear/pen/JzMmqg
+- https://codepen.io/joshcummingsdesign/pen/qOKaWd
+- https://codepen.io/tryggvigy/pen/gwmyYJ
+- https://codepen.io/rileyjshaw/pen/Drddop
+- https://codepen.io/HuntingHawk/pen/rNaEZxW
+- https://codepen.io/mackorichardson/pen/vNMRpK
+- 
