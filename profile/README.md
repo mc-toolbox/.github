@@ -27,3 +27,13 @@
 - https://codepen.io/mackorichardson/pen/vNMRpK
 - https://codepen.io/CatnCream/pen/nwxqOG
 - https://codepen.io/mobihack-official/pen/EJpRXQ (Quiz)
+- https://codepen.io/jamesduncombe/pen/QNMapK (Terminal)
+- https://codepen.io/TheRealAlan/details/qNOZPo (jQuery Terminal)
+- https://codepen.io/rikato/pen/yLeRXZ (Terminal looking website)
+- https://codepen.io/shakdaniel/pen/OmZeJy (Pure CSS Terminal)
+- https://codepen.io/dark_mefody/pen/KRXbxX (macOS Terminal (Single Div) 🍏)
+- https://codepen.io/chriscoyier/pen/GBbOJd (Terminal Output)
+- https://codepen.io/Reklino/pen/yyBvoG (Ace Editor)
+- https://codepen.io/TheOnlyZac/pen/pyxmQZ (Terminal Simulator)
+- https://codepen.io/arcticben/pen/OWYyeo (TERMINAL UI)
+- https://codepen.io/lawlheart/pen/eJOZjN (Fallout Terminal)
