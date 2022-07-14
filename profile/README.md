@@ -37,3 +37,4 @@
 - https://codepen.io/TheOnlyZac/pen/pyxmQZ (Terminal Simulator)
 - https://codepen.io/arcticben/pen/OWYyeo (TERMINAL UI)
 - https://codepen.io/lawlheart/pen/eJOZjN (Fallout Terminal)
+- https://codepen.io/uplusion23/pen/qbJVdg (Hacker's Terminal)
