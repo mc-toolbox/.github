@@ -38,3 +38,5 @@
 - https://codepen.io/arcticben/pen/OWYyeo (TERMINAL UI)
 - https://codepen.io/lawlheart/pen/eJOZjN (Fallout Terminal)
 - https://codepen.io/uplusion23/pen/qbJVdg (Hacker's Terminal)
+- https://codepen.io/andytran/pen/RPBdgM (Material Login Form)
+- https://codepen.io/noeldelgado/pen/PZJGLx (SVG clip-path Hover Effect)
