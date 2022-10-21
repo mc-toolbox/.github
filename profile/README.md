@@ -60,3 +60,4 @@
 - https://codepen.io/steveeeie/pen/NVWMEM (CSS Filter Cards)
 - https://codepen.io/jh3y/pen/gOzoQxB (Scroll Linked Parallax with ViewTimeline)
 - https://codepen.io/ig_design/pen/VwedgWj (Pricing - pure css - #16)
+- https://codepen.io/dilums/pen/ZEBowxX (Responsive React Dashboard with Tailwind)
