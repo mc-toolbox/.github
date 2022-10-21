@@ -55,3 +55,8 @@
 - https://codepen.io/jh3y/pen/LYNZwGm (Impossible Checkbox v2 🐻)
 - https://codepen.io/robin-dela/pen/KKPYoBq (Fluid text hover)
 - https://codepen.io/ig_design/pen/KKVQpVP (Log In / Sign Up - pure css - #12)
+- https://codepen.io/bvg-studio/pen/XWqQemV (3D Button, Hover me)
+- https://codepen.io/smpnjn/pen/ExLbvdJ (CSS Only Windows 98)
+- https://codepen.io/steveeeie/pen/NVWMEM (CSS Filter Cards)
+- https://codepen.io/jh3y/pen/gOzoQxB (Scroll Linked Parallax with ViewTimeline)
+- https://codepen.io/ig_design/pen/VwedgWj (Pricing - pure css - #16)
