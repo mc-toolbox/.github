@@ -62,4 +62,4 @@
 - https://codepen.io/ig_design/pen/VwedgWj (Pricing - pure css - #16)
 - https://codepen.io/dilums/pen/ZEBowxX (Responsive React Dashboard with Tailwind)
 - https://codepen.io/yudizsolutions/details/XWqwOJR (Smart Remote Control With Dark/Light Mode)
-- 
+- https://codepen.io/Wujek_Greg/pen/KRXYpg (Pure CSS watch animation)
