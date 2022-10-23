@@ -73,3 +73,4 @@
 - https://codepen.io/LauraEnria/details/yjgPvR (memory-game Udacity)
 - https://codepen.io/massther/pen/KKNpoMX (Box - product card)
 - https://codepen.io/RoxVell/pen/BEpaoO (Dashboard Wallet)
+- https://codepen.io/gvissing/pen/LYmvmjO (CodePen Challenge - Ghosts)
