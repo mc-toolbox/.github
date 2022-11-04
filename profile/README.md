@@ -74,3 +74,47 @@
 - https://codepen.io/massther/pen/KKNpoMX (Box - product card)
 - https://codepen.io/RoxVell/pen/BEpaoO (Dashboard Wallet)
 - https://codepen.io/gvissing/pen/LYmvmjO (CodePen Challenge - Ghosts)
+- https://codepen.io/ohsoren/pen/QNoQwX (CodePen Home nick drake current link indicator)
+- https://codepen.io/gk/pen/xqLzKa (Recipe card with css tabs)
+- https://codepen.io/himalayasingh/pen/dqjLgO (Search Form With Animated Search Button)
+- https://codepen.io/jackrugile/pen/nZMBMA (Glowing Pulse Form)
+- https://codepen.io/drehimself/pen/KdXwxR (Chat Widget)
+- https://codepen.io/poppe1219/pen/oNdzaw (Mobile menu, CSS only)
+
+## Certificate template :
+- https://codepen.io/seebrosky/pen/xLzKOV (Certificate Template I)
+
+## Terminal :
+- https://codepen.io/ines/pen/MoaRYM (termynal.js: A lightweight and modern animated terminal window)
+- https://codepen.io/alex-page/pen/zVYBxb (beep)
+- https://codepen.io/codypearce/pen/JmOQXB (Ubuntu Terminal CSS)
+- https://codepen.io/CatnCream/pen/AZjwBo (Deacon - A Hacking Game)
+- https://codepen.io/rafaelrinaldi/pen/AmXQwZ (CSS3 terminal)
+- https://codepen.io/adonisk/pen/AYWPmj (CSS3 animated terminal cursor)
+- https://codepen.io/deluxive/pen/AZeBjz (IMSAI WarGames Terminal)
+- https://codepen.io/thykka/details/oLNBvj (CRT/LCD Botnet)
+- https://codepen.io/remsrob/details/ZRyqNx (cyberpunk terminal)
+- https://codepen.io/TheOnlyZac/pen/pyxmQZ (Terminal Simulator)
+- https://codepen.io/dark_mefody/details/KRXbxX (macOS Terminal (Single Div) 🍏)
+- https://codepen.io/shakdaniel/pen/OmZeJy (Pure CSS Terminal)
+- https://codepen.io/chriscoyier/pen/GBbOJd (Terminal Output)
+- https://codepen.io/mahdi/pen/rOqpBJ (Web Terminal)
+- https://codepen.io/TheRealAlan/pen/qNOZPo (jQuery Terminal)
+- https://codepen.io/decent_descent/pen/pWvEav (This was a triumph!)
+- https://codepen.io/jamesduncombe/pen/QNMapK (Terminal)
+- https://codepen.io/tryggvigy/pen/gwmyYJ (Macintosh 128k - Terminal)
+- https://codepen.io/mackorichardson/pen/vNMRpK (Fallout Terminal Inspired Style)
+- https://codepen.io/CatnCream/pen/nwxqOG (Fallout 3 Terminal Emulator)
+- https://codepen.io/HuntingHawk/pen/rNaEZxW (Terminal Style Portfolio in ReactJS)
+- https://codepen.io/team/scout0773/pen/MebQwV (Automate Droplet actions)
+- https://codepen.io/joshcummingsdesign/pen/qOKaWd (CSS Terminal Window)
+- https://codepen.io/cluzier/details/RYMVBP (500 Internal Error)
+- https://codepen.io/simoami/pen/eYrPdz (Animated Terminal Session)
+- https://codepen.io/Tbgse/pen/dYaJyJ (Terminal Text Effect)
+- https://codepen.io/lennon/pen/gMYmyp (Terminal windows animated css)
+
+## 403 Page
+- https://codepen.io/leenalavanya/pen/RYqvgK (403 Forbidden Console Theme #CodePenChallenge)
+
+## Menu
+- https://codepen.io/rizkykurniawanritonga/details/VwvOMW (Pure CSS3 Mega Dropdown Menu With Animation (Vertical))
