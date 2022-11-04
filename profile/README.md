@@ -118,3 +118,21 @@
 
 ## Menu
 - https://codepen.io/rizkykurniawanritonga/details/VwvOMW (Pure CSS3 Mega Dropdown Menu With Animation (Vertical))
+
+## Password Generator
+- https://codepen.io/dev_loop/pen/vYYxvbz (Random Password Generator - HTML | CSS | JS)
+
+## Tree & Visualisation
+- https://codepen.io/borntofrappe/details/qBKNPXY (CSS Technologies)
+- https://codepen.io/aymak/pen/WNzdLLe (Tree, brain)
+- https://codepen.io/cobra_winfrey/pen/gOzwPyL (Dynamic Island Doom)
+- https://codepen.io/spaceninja/details/KKRWvdO (Highly Customizable Background Gradients)
+
+## Environnement
+- https://codepen.io/simeydotme/pen/MWQGbYX (Pure CSS light/dark Toggle (respects browser))
+
+## Loader
+- https://codepen.io/jkantner/pen/JjZXpNZ (Recursion Time)
+- https://codepen.io/baarbaracrr/pen/KKovmGb (Gradient background with waves)
+- https://codepen.io/lukemeyrick/details/poVyEdZ (✨ iPhone 14 w/ Dynamic Island ✨)
+- https://codepen.io/claudio_bonfati/pen/mdryxPv (Netflix Intro Animation Pure CSS)
